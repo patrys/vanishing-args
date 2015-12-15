@@ -1,5 +1,5 @@
 # vanishing-args package
 
-A short description of your package.
+An Atom package that makes parameters of function calls slightly transparent
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Screenshot](https://cloud.githubusercontent.com/assets/81205/11809573/20f5ca6c-a328-11e5-9132-a900aa5ce773.png)
