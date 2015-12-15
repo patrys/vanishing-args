@@ -1,12 +1,11 @@
 {
   "name": "vanishing-args",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Makes parameters of function calls slightly transparent",
   "repository": "https://github.com/patrys/vanishing-args",
   "license": "MIT",
   "engines": {
     "atom": "*"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
